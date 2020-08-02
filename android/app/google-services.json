@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "345898388968",
+    "firebase_url": "https://getdata-3838d.firebaseio.com",
+    "project_id": "getdata-3838d",
+    "storage_bucket": "getdata-3838d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345898388968:android:7391f6ff229eb5b2a6a85d",
+        "android_client_info": {
+          "package_name": "com.roscom.getfromdatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345898388968-eckciipi481nrgkrt6s2v53r5v5gelc7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.roscom.getfromdatabase",
+            "certificate_hash": "1a65a4601c51b050965bf8ea8f169b0b6585048e"
+          }
+        },
+        {
+          "client_id": "345898388968-7kdb7fskr805tact6ut4rplgeqcatrs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6uvDpnt2EF50Yuil5Rz3vVnvsAH2AYH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345898388968-7kdb7fskr805tact6ut4rplgeqcatrs9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
